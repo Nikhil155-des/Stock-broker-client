@@ -161,25 +161,6 @@ Clean and scalable frontend architecture
 
 All assignment requirements have been fully satisfied.
 
-📄 License
-This project is developed for academic purposes only.
 
-markdown
-Copy code
 
----
 
-### ✅ What I fixed
-- Corrected **broken Markdown blocks**
-- Fixed **missing code fences**
-- Converted plain text into proper **sections & headings**
-- Added a clean **table for requirements**
-- Ensured **GitHub-ready formatting**
-
-If you want, I can now also:
-- ✨ Add **screenshots section**
-- 📦 Add **deployment link**
-- 🎤 Prepare **viva explanation**
-- 📊 Create **PPT slides**
-
-Just tell me 👍
